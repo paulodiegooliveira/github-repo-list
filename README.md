@@ -21,7 +21,7 @@ yarn install
 2º step: To run the aplication in deveoper mode
 
 ```sh
-yarn star
+yarn start
 ```
 
 **- 3º Step:** <br>
@@ -31,4 +31,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Credits
 
-- [Diego Fernandes](https://github.com/diego3g)(CTO)
+- [Diego Fernandes](https://github.com/diego3g) (CTO)
