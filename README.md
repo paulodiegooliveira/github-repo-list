@@ -27,7 +27,4 @@ yarn star
 ## Credits
 
 - [Diego Fernandes](https://github.com/diego3g)
-- [UpInside Treinamentos](https://github.com/upinside) (Team)
-- [All Contributors](https://github.com/robsonvleite/optimizer/contributors) (This Rock)
-
 
