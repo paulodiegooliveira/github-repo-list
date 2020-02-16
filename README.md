@@ -24,7 +24,11 @@ yarn install
 yarn star
 ```
 
+**- 3º Step:** <br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+
 ## Credits
 
-- [Diego Fernandes](https://github.com/diego3g)
-
+- [Diego Fernandes](https://github.com/diego3g)(CTO)
